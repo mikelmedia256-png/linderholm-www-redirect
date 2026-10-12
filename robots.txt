@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /volunteer/thanks/
+Disallow: /yard-sign/thanks/
+
+Sitemap: https://jameslinderholm.com/sitemap-index.xml
